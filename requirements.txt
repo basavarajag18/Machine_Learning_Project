@@ -1,5 +1,6 @@
-numpypython setup.py install
+numpy
 Flask
 gunicorn
 sklearn
 pandas
+-e .
