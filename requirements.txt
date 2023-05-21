@@ -1,0 +1,5 @@
+numpypython setup.py install
+Flask
+gunicorn
+sklearn
+pandas
